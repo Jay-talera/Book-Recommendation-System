@@ -11,7 +11,7 @@ import numpy as np
 st.set_page_config(page_title='Book Recommender',page_icon='📚')
 st.caption('Author: The Elucidate')
 st.caption('Linkedin: [Jay Jain](https://www.linkedin.com/in/jayjain6865)'+'  \n '
-           +'‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎'+
+           +'‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ '+
            '[Tanisha Yadav](https://www.linkedin.com/in/jayjain6865)')
 st.divider()
 
