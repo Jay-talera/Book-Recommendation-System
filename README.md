@@ -1,5 +1,15 @@
-
 # Book-Recommendation-System
+
+---
+
+  <a href="https://book-recommendation-system-a09ecb6c377e.herokuapp.com/">
+    <img src="https://img.shields.io/badge/Try%20on%20heroku-blue?style=for-the-badge&logo=heroku&logoColor=white%22%20alt=%22LinkedIn%20Badge"/>
+  </a>
+  <a href="https://jay-talera-book-recommendation-system-app-hbugzi.streamlit.app/">
+    <img src="https://img.shields.io/badge/Try%20on%20streamlit-blue?style=for-the-badge&logo=heroku&logoColor=white%22%20alt=%22LinkedIn%20Badge"/>
+  </a>
+
+---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
