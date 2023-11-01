@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+pickle
+streamlit
+numpy
+scikit-learn
+
+
+#local packages
+
+-e .
