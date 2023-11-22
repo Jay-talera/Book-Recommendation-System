@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/tanisha-yadav-2002">
     <img src="https://img.shields.io/badge/Tanisha%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://www.linkedin.com/in/udit-khanna-440bbb203">
+    <img src="https://img.shields.io/badge/Udit%20Khanna-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 
