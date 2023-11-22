@@ -12,7 +12,9 @@ st.set_page_config(page_title='Book Recommender',page_icon='📚')
 st.caption('Author: The Elucidate')
 st.caption('Linkedin: [Jay Jain](https://www.linkedin.com/in/jayjain6865)'+'  \n '
            +'‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ '+
-           '[Tanisha Yadav](https://www.linkedin.com/in/jayjain6865)')
+           '[Tanisha Yadav](https://www.linkedin.com/in/jayjain6865)'+'  \n '
+           +'‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ '+
+           '[Udit Khanna](https://www.linkedin.com/in/udit-khanna-440bbb203)')
 st.divider()
 
 
