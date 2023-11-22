@@ -1,10 +1,6 @@
 # Book-Recommendation-System
 
 ---
-
-  <a href="https://book-recommendation-system-a09ecb6c377e.herokuapp.com/">
-    <img src="https://img.shields.io/badge/Try%20on%20heroku-blue?style=for-the-badge&logo=heroku&logoColor=white%22%20alt=%22LinkedIn%20Badge"/>
-  </a>
   <a href="https://jay-talera-book-recommendation-system-app-hbugzi.streamlit.app/">
     <img src="https://img.shields.io/badge/Try%20on%20streamlit-blue?style=for-the-badge&logo=heroku&logoColor=white%22%20alt=%22LinkedIn%20Badge"/>
   </a>
@@ -22,6 +18,9 @@
   </a>
   <a href="https://www.linkedin.com/in/tanisha-yadav-2002">
     <img src="https://img.shields.io/badge/Tanisha%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/udit-khanna-440bbb203">
+    <img src="https://img.shields.io/badge/Udit%20Khanna-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -45,7 +44,7 @@
 We are student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :eyes: We are interested in Machine Learning and Data Analysis
 - :purple_heart: We are looking to collaborate on Python Projects
-- :mailbox: How to reach us: [![Linkedin Badge](https://img.shields.io/badge/Jay%20Jain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayjain6865) [![Linkedin Badge](https://img.shields.io/badge/Tanisha%20Yadav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-yadav-2002)
+- :mailbox: How to reach us: [![Linkedin Badge](https://img.shields.io/badge/Jay%20Jain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayjain6865) [![Linkedin Badge](https://img.shields.io/badge/Tanisha%20Yadav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-yadav-2002) [![Linkedin Badge](https://img.shields.io/badge/Udit%20Khanna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udit-khanna-440bbb203)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
