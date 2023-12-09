@@ -44,7 +44,7 @@
 We are student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :eyes: We are interested in Machine Learning and Data Analysis
 - :purple_heart: We are looking to collaborate on Python Projects
-- :mailbox: How to reach us: [![Linkedin Badge](https://img.shields.io/badge/Jay%20Jain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayjain6865) [![Linkedin Badge](https://img.shields.io/badge/Tanisha%20Yadav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-yadav-2002) [![Linkedin Badge](https://img.shields.io/badge/Udit%20Khanna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udit-khanna-440bbb203)
+- 📬 How to reach us: [![Linkedin Badge](https://img.shields.io/badge/Jay%20Jain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayjain6865) [![Linkedin Badge](https://img.shields.io/badge/Tanisha%20Yadav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-yadav-2002) [![Linkedin Badge](https://img.shields.io/badge/Udit%20Khanna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udit-khanna-440bbb203)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
