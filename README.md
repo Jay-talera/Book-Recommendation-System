@@ -2,7 +2,7 @@
 
 ---
   <a href="https://jay-talera-book-recommendation-system-app-hbugzi.streamlit.app/">
-    <img src="https://img.shields.io/badge/Try%20on%20streamlit-blue?style=for-the-badge&logo=heroku&logoColor=white%22%20alt=%22LinkedIn%20Badge"/>
+    <img src="https://img.shields.io/badge/Try%20on%20streamlit-blue?style=for-the-badge&logo=streamlit&logoColor=white%22%20alt=%22LinkedIn%20Badge"/>
   </a>
 
 ---
